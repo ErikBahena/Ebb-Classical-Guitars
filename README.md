@@ -15,7 +15,7 @@ This project will demonstrate the following skills:
 
 7.Staging, commiting and pushing current progress to GitHub.
 
-You can see this project live at :
+You can see this project live at :  https://erikbahena.github.io/Ebb-Classical-Guitars/
 
 Although simple, I enjoyed creating this website a lot. It's my first website that has to do with a product page.
 
